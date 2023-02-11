@@ -1,2 +1,4 @@
 # My-CV
-some details about me.
+Educational qualifications,
+my skills and
+hobbies.
